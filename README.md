@@ -25,7 +25,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
 
-<h2 align="left">Hi 👋! My name is Rama Jaiswal and 👀 I’m interested in **frontend development, web technologies, and API design**.</h2>
+<h2 align="left">Hi 👋! My name is Rama Jaiswal and I’m interested in frontend development, web technologies, and API design.</h2>
 
 ###
 
