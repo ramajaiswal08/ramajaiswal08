@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Chat App**
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **react**
 
