@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rama Jaiswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Web Chat App**
-
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **reactjs , nodejs**
 
 - 📫 How to reach me **ramajaiswal829111@gmail.com**
 
